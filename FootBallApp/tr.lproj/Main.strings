@@ -1,0 +1,219 @@
+
+/* Class = "UILabel"; text = "My Profile"; ObjectID = "02V-6E-u83"; */
+"02V-6E-u83.text" = "Benim profilim";
+
+/* Class = "UITabBarItem"; title = "Fixture"; ObjectID = "0M4-Ek-JzT"; */
+"0M4-Ek-JzT.title" = "Fikstür";
+
+/* Class = "UILabel"; text = "77"; ObjectID = "1ju-4Y-6CF"; */
+"1ju-4Y-6CF.text" = "77";
+
+/* Class = "UILabel"; text = "HT :"; ObjectID = "2fY-AR-z1C"; */
+"2fY-AR-z1C.text" = "HT :";
+
+/* Class = "UITabBarItem"; title = "My Team"; ObjectID = "2hk-S8-rtE"; */
+"2hk-S8-rtE.title" = "Takımım";
+
+/* Class = "UILabel"; text = "Team"; ObjectID = "2sd-ja-FsL"; */
+"2sd-ja-FsL.text" = "Takım";
+
+/* Class = "UILabel"; text = "H19 / A6"; ObjectID = "3bH-Gt-9j1"; */
+"3bH-Gt-9j1.text" = "H19 / A6";
+
+/* Class = "UILabel"; text = "GD"; ObjectID = "5b1-Iv-hQZ"; */
+"5b1-Iv-hQZ.text" = "Av";
+
+/* Class = "UIButton"; normalTitle = "FIXTURE"; ObjectID = "5yy-2E-Il4"; */
+"5yy-2E-Il4.normalTitle" = "FIXTURE";
+
+/* Class = "UILabel"; text = "Select Country"; ObjectID = "7rH-ek-BhD"; */
+"7rH-ek-BhD.text" = "Select Country";
+
+/* Class = "UILabel"; text = "Live Score"; ObjectID = "804-wk-KiQ"; */
+"804-wk-KiQ.text" = "Live Score";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "85T-L1-GmH"; */
+"85T-L1-GmH.text" = "0";
+
+/* Class = "UILabel"; text = "This is the small label with small font size...bfjs ubf as uabs d aauiosd a oauisd asdioahsd asdioabsd "; ObjectID = "F2L-yj-3Q2"; */
+"F2L-yj-3Q2.text" = "This is the small label with small font size...bfjs ubf as uabs d aauiosd a oauisd asdioahsd asdioabsd ";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "FTR-x7-Jsr"; */
+"FTR-x7-Jsr.text" = "0";
+
+/* Class = "UILabel"; text = "league Name"; ObjectID = "Fil-Tf-851"; */
+"Fil-Tf-851.text" = "league Name";
+
+/* Class = "UIButton"; normalTitle = "Import to Calendar"; ObjectID = "Fw4-kE-nJx"; */
+"Fw4-kE-nJx.normalTitle" = "Takvim'e aktar";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "GPK-J8-y7c"; */
+"GPK-J8-y7c.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "Goals"; ObjectID = "Gqr-Zf-ip4"; */
+"Gqr-Zf-ip4.text" = "Goller";
+
+/* Class = "UILabel"; text = "Manchestor United"; ObjectID = "H23-8p-e0K"; */
+"H23-8p-e0K.text" = "Manchestor United";
+
+/* Class = "UIButton"; normalTitle = "OVERVIEW"; ObjectID = "HMs-CA-akL"; */
+"HMs-CA-akL.normalTitle" = "Özet";
+
+/* Class = "UILabel"; text = "D"; ObjectID = "Hsc-jJ-mGR"; */
+"Hsc-jJ-mGR.text" = "B";
+
+/* Class = "UILabel"; text = "Rank"; ObjectID = "I14-kl-QJC"; */
+"I14-kl-QJC.text" = "Sıra";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "I17-MV-YOQ"; */
+"I17-MV-YOQ.text" = "Label";
+
+/* Class = "UILabel"; text = "Select Team"; ObjectID = "IKg-Rd-7za"; */
+"IKg-Rd-7za.text" = "Select Team";
+
+/* Class = "UILabel"; text = "HT/FT Score"; ObjectID = "JSq-OS-gDc"; */
+"JSq-OS-gDc.text" = "İY/MS Skoru";
+
+/* Class = "UITextField"; placeholder = "First Name"; ObjectID = "Kc9-yb-ggk"; */
+"Kc9-yb-ggk.placeholder" = "Ad";
+
+/* Class = "UILabel"; text = "H19 / A6"; ObjectID = "Klc-2M-Xms"; */
+"Klc-2M-Xms.text" = "H19 / A6";
+
+/* Class = "UILabel"; text = "Select Language"; ObjectID = "Loa-U5-d61"; */
+"Loa-U5-d61.text" = "Select Language";
+
+/* Class = "UILabel"; text = "Notification"; ObjectID = "Lt4-09-pN1"; */
+"Lt4-09-pN1.text" = "Mesa";
+
+/* Class = "UIButton"; normalTitle = "Import to your iPhone"; ObjectID = "MFm-SA-B3e"; */
+"MFm-SA-B3e.normalTitle" = "Import to your iPhone";
+
+/* Class = "UILabel"; text = "Select Country"; ObjectID = "Mcz-VC-kdq"; */
+"Mcz-VC-kdq.text" = "Select Country";
+
+/* Class = "UITabBarItem"; title = "Team Table"; ObjectID = "Mme-3o-JJY"; */
+"Mme-3o-JJY.title" = "Puan Durumu";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Ohu-X9-1C5"; */
+"Ohu-X9-1C5.text" = "Label";
+
+/* Class = "UILabel"; text = "Key Events"; ObjectID = "Qy9-X2-9Gr"; */
+"Qy9-X2-9Gr.text" = "Önemli";
+
+/* Class = "UILabel"; text = "Game reminder 30 minutes before"; ObjectID = "SNt-hM-Fdw"; */
+"SNt-hM-Fdw.text" = "Oyun hatırlatıcısı 30 dakika önce";
+
+/* Class = "UILabel"; text = "Full Time"; ObjectID = "ScK-UD-i7p"; */
+"ScK-UD-i7p.text" = "Maç Sonucu";
+
+/* Class = "UILabel"; text = "77"; ObjectID = "Svz-e7-CaA"; */
+"Svz-e7-CaA.text" = "77";
+
+/* Class = "UILabel"; text = "Follow us on Social Media"; ObjectID = "Tgt-Sl-P6Y"; */
+"Tgt-Sl-P6Y.text" = "Sosyal Medyada bizi takip edin";
+
+/* Class = "UITextField"; placeholder = "Enter Email"; ObjectID = "UAY-c0-3tn"; */
+"UAY-c0-3tn.placeholder" = "E-mail";
+
+/* Class = "UILabel"; text = "W"; ObjectID = "UFW-Eq-xWF"; */
+"UFW-Eq-xWF.text" = "G";
+
+/* Class = "UILabel"; text = "HT 2-0"; ObjectID = "Udq-Ls-daN"; */
+"Udq-Ls-daN.text" = "HT 2-0";
+
+/* Class = "UILabel"; text = "HT :"; ObjectID = "VzD-3n-JJa"; */
+"VzD-3n-JJa.text" = "İY :";
+
+/* Class = "UILabel"; text = "Gender"; ObjectID = "Was-zv-jqQ"; */
+"Was-zv-jqQ.text" = "Cinsiyet";
+
+/* Class = "UILabel"; text = "Select Team"; ObjectID = "ZMX-Ab-bTe"; */
+"ZMX-Ab-bTe.text" = "Takım Seç";
+
+/* Class = "UILabel"; text = "H19 / A6"; ObjectID = "anP-PZ-tyU"; */
+"anP-PZ-tyU.text" = "H19 / A6";
+
+/* Class = "UILabel"; text = "L"; ObjectID = "ayq-z4-q8s"; */
+"ayq-z4-q8s.text" = "Y";
+
+/* Class = "UILabel"; text = "Past Matches"; ObjectID = "c9l-MF-eMP"; */
+"c9l-MF-eMP.text" = "Geçmiş Maçlar";
+
+/* Class = "UILabel"; text = "HT 0-1"; ObjectID = "cQT-jf-FPF"; */
+"cQT-jf-FPF.text" = "HT 0-1";
+
+/* Class = "UILabel"; text = "minutes"; ObjectID = "cSW-Z4-kxw"; */
+"cSW-Z4-kxw.text" = "minutes";
+
+/* Class = "UILabel"; text = "77"; ObjectID = "cb6-QJ-rxa"; */
+"cb6-QJ-rxa.text" = "77";
+
+/* Class = "UILabel"; text = "Share With"; ObjectID = "cdX-hN-v6S"; */
+"cdX-hN-v6S.text" = "Paylaş";
+
+/* Class = "UILabel"; text = "77"; ObjectID = "dSx-RB-7Ot"; */
+"dSx-RB-7Ot.text" = "77";
+
+/* Class = "UILabel"; text = "Next Match"; ObjectID = "eeq-dj-d84"; */
+"eeq-dj-d84.text" = "Sonraki Maç";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "fDV-Bx-Q4n"; */
+"fDV-Bx-Q4n.text" = "1";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "fNY-dW-rTr"; */
+"fNY-dW-rTr.text" = "0";
+
+/* Class = "UILabel"; text = "Game reminder"; ObjectID = "fNh-mZ-7Nv"; */
+"fNh-mZ-7Nv.text" = "Maç Öncesi";
+
+/* Class = "UILabel"; text = "Live Score"; ObjectID = "fXS-B4-UT0"; */
+"fXS-B4-UT0.text" = "Live Score";
+
+/* Class = "UILabel"; text = "Other Events"; ObjectID = "fZk-M2-h7t"; */
+"fZk-M2-h7t.text" = "Diğer";
+
+/* Class = "UILabel"; text = "Manchestor United"; ObjectID = "fcJ-NJ-L9I"; */
+"fcJ-NJ-L9I.text" = "Manchestor United";
+
+/* Class = "UILabel"; text = "league Name"; ObjectID = "jgb-B9-tA7"; */
+"jgb-B9-tA7.text" = "league Name";
+
+/* Class = "UILabel"; text = "H19 / A6"; ObjectID = "kKF-Dk-4Pm"; */
+"kKF-Dk-4Pm.text" = "H19 / A6";
+
+/* Class = "UILabel"; text = "The big Label with details"; ObjectID = "nTG-zr-rLK"; */
+"nTG-zr-rLK.text" = "The big Label with details";
+
+/* Class = "UILabel"; text = "Pts"; ObjectID = "pKi-OU-9uC"; */
+"pKi-OU-9uC.text" = "P";
+
+/* Class = "UILabel"; text = "About"; ObjectID = "q72-5j-VPc"; */
+"q72-5j-VPc.text" = "Hakkında";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "rRb-BZ-beE"; */
+"rRb-BZ-beE.text" = "Label";
+
+/* Class = "UILabel"; text = "Select Team"; ObjectID = "rrF-yw-qMr"; */
+"rrF-yw-qMr.text" = "Takım Seç";
+
+/* Class = "UITabBarItem"; title = "Subscribe Calendar"; ObjectID = "tHC-FO-ROZ"; */
+"tHC-FO-ROZ.title" = "Takvim İndir";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "uDQ-89-fyE"; */
+"uDQ-89-fyE.text" = "0";
+
+/* Class = "UITextField"; placeholder = "E-mail"; ObjectID = "whI-A2-9nc"; */
+"whI-A2-9nc.placeholder" = "E-mail";
+
+/* Class = "UITextField"; placeholder = "Age"; ObjectID = "xBA-g8-B6a"; */
+"xBA-g8-B6a.placeholder" = "Yaş";
+
+/* Class = "UILabel"; text = "Select country"; ObjectID = "yr9-6l-ENH"; */
+"yr9-6l-ENH.text" = "Ülkeyi seç";
+
+/* Class = "UITextField"; placeholder = "Last Name"; ObjectID = "zZ1-Ya-3hM"; */
+"zZ1-Ya-3hM.placeholder" = "Soyad";
+
+/* Class = "UILabel"; text = "MP"; ObjectID = "zpz-LL-atS"; */
+"zpz-LL-atS.text" = "O";

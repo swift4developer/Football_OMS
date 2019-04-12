@@ -1,0 +1,29 @@
+/* 
+  Localizable.strings
+  FootBallApp
+
+  Created by AS182 on 11/20/17.
+  Copyright © 2017 Praveen Khare. All rights reserved.
+*/
+"My Team" = "Mi equipo" ;
+"Fixture" = "Accesorio" ;
+"Team Table" = "Mesa de equipo" ;
+"Settings" = "Configuraciones" ;
+"My Profile" = "Mi perfil" ;
+"Live Match" = "Partido en vivo" ;
+"Game Details" = "Detalles del juego" ;
+"All" = "Todas" ;
+"Draw"  = "Dibujar" ;
+"Loss" = "Pérdida" ;
+"Win" = "Ganar" ;
+"Match Not Started Yet" = "Match Not Started Yet";
+"Minute" = "Minuto"  ;
+"SAVE" = "SALVAR";
+"Success !!!!" = "Éxito !!!!" ;
+"Your profile updated successfully" = "Tu perfil actualizado con éxito" ;
+"OK"  = "DE ACUERDO" ;
+"Please Enter E-mail" = "Por favor ingrese el correo electrónico";
+"Odds" = "Posibilidades";
+"Registration" = "Registro";
+"Subscribe" = "Suscribir" ;
+

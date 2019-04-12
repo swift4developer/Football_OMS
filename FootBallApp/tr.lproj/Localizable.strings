@@ -1,0 +1,28 @@
+/* 
+  Localizable.strings
+  FootBallApp
+
+  Created by AS182 on 11/20/17.
+  Copyright © 2017 Praveen Khare. All rights reserved.
+*/
+"My Team" = "Canlı Maç" ;
+"Fixture" = "Fikstür" ;
+"Team Table" = "Puan Durumu" ;
+"Settings" = "Ayarlar" ;
+"My Profile" = "Profilim" ;
+"Live Match" = "Canlı Maç" ;
+"Game Details" = "Maç Detayı" ;
+"All" = "Herşey" ;
+"Draw"  = "Beraberlik" ;
+"Loss" = "Yenilgi" ;
+"Win" = "Galibiyet" ;
+"Match Not Started Yet" = "Maç Henüz Başlamadı" ;
+"Minute" = "Dakika"  ;
+"SAVE" = "KAYIT ETMEK";
+"Success !!!!" = "Başarı !!" ;
+"Your profile updated successfully" = "Profiliniz başarıyla güncellendi" ;
+"OK"  = "tamam" ;
+"Please Enter E-mail" = "Lütfen E-postayı Giriniz";
+"Odds" = "olasılık" ;
+"Registration" = "kayıt";
+"Subscribe" = "Abone ol" ;
